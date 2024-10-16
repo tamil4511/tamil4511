@@ -22,28 +22,35 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="30" />
   </a>
 </div>
+<br><br>
 
-## I CODE IN
+## **_I CODE IN_**
+
 
 <div align="center"> 
-    <img src="https://github.com/user-attachments/assets/727fd34e-538d-47ab-8030-be8872d33658" alt="C" width="80" />
-    <img src="https://github.com/user-attachments/assets/0814864a-67a5-4dd0-bafb-f318fe4dc8a6" alt="JAVA" width="80" />
-    <img src="https://github.com/user-attachments/assets/9e9ef596-e3f1-4306-bab9-5ba97c64e641" alt="HTML" width="80" />
-    <img src="https://github.com/user-attachments/assets/e2d13e89-a71a-4019-bf3a-6e1db31f8023" alt="CSS" width="80" />
-    <img src="https://github.com/user-attachments/assets/f73295d3-5c26-4f57-96c7-f727f58a3798" alt="Javascript" width="80" />
-    <img src="https://github.com/user-attachments/assets/e9fedf41-c012-4be6-bc14-9697188bb521" alt="Bootstrap" width="80" />
-    <img src="https://github.com/user-attachments/assets/ad537a89-b958-4d35-98ed-caadcf5a3f3a" alt="PHP" width="80" />
-    <img src="https://github.com/user-attachments/assets/2ca6a624-aca3-4b79-b9f5-99529daf6559" alt="jQuery" width="80" />
-    <img src="https://github.com/user-attachments/assets/a86bf31a-09c0-4389-891f-7ee4dc669df4" alt="React" width="80" />
-    <img src="https://github.com/user-attachments/assets/e53d1e1e-5de9-493a-ae61-f684c706e35c" alt="Angular" width="80" />
+    <img width="80" height="80" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+    <img width="80" height="80" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    <img width="80" height="80" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+    <img width="80" height="80" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+    <img width="80" height="80" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="80" height="80" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+    <img width="80" height="80" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+    <img width="80" height="80" src="https://img.icons8.com/deco/48/jquery.png" alt="jquery"/>
+    <img width="80" height="80" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+    <img width="80" height="80" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 </div>
 
-## MY STATS
+
+
+
+<br><br>
+
+## 🚀 **_MY STATS_** 
+
+
 
 <div align="center">
     <a href="https://github.com/tamil4511/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil4511&layout=donut" />
     </a>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=tamil4511&show_icons=true" />
 </div>
