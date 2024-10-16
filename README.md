@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-  <strong>Product Engineer</strong> and <strong>Full Stack Developer</strong> 💻  
-  <br/>  
   Love to learn and explore <strong>new technologies</strong> 🌐  
   <br/>
   Interested in contributing to <strong>open-source projects</strong> 🔧  
