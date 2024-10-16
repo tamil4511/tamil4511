@@ -25,7 +25,7 @@
 
 ## I CODE IN
 
-<div align="center">
+<div align="center"> 
     <img src="https://github.com/user-attachments/assets/727fd34e-538d-47ab-8030-be8872d33658" alt="C" width="80" />
     <img src="https://github.com/user-attachments/assets/0814864a-67a5-4dd0-bafb-f318fe4dc8a6" alt="JAVA" width="80" />
     <img src="https://github.com/user-attachments/assets/9e9ef596-e3f1-4306-bab9-5ba97c64e641" alt="HTML" width="80" />
