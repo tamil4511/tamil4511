@@ -33,7 +33,7 @@
     <img width="80" height="80" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="80" height="80" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
     <img width="80" height="80" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
-    <img width="80" height="80" src="https://img.icons8.com/deco/48/jquery.png" alt="jquery"/>
+    <img width="80" height="80" src="https://img.icons8.com/deco/48/jquery.png" alt="jquery" tooltip="JQuery"/>
     <img width="80" height="80" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
     <img width="80" height="80" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 </div>
